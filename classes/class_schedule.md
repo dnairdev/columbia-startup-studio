@@ -1,7 +1,8 @@
 # Class Schedule - Startup Studio: AI-Accelerated Building & Validation
 
 **Course:** Startup Studio: AI-Accelerated Building & Validation
-**Instructors:** Lydia Chilton (Sponsoring Professor) & Ken St. Clair (Adjunct Assistant Professor)
+**ID:** COMS4995-011
+**Instructors:** Ken St. Clair (Adjunct Assistant Professor)
 **Semester:** Spring 2026
 
 ---
