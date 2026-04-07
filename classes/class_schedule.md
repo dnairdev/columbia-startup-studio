@@ -65,8 +65,8 @@ The course follows the canonical validation sequence: **Problem → Solution →
 ### ITERATE + SCALE (Weeks 9-13)
 > Keep building. Run experiments. Go deeper with analytics, UX, and growth.
 
-- Post-break check-in and experiment planning
-- Run experiments 3 and 4
+- Post-break check-in and roadmap planning
+- Get users: everyone is finding their first real users and improving onboarding
 - Analytics deep dive (AARRR / pirate metrics, Google Analytics / Amplitude)
 - Onboarding optimization and user testing on real flows
 - Pricing experimentation
@@ -105,14 +105,14 @@ The course follows the canonical validation sequence: **Problem → Solution →
 | **8**  | Thu | Mar 12        | c15w8  | **MVP Presentations** + peer feedback                    | Build     | -                                                         |
 |        |     | **Mar 16-20** |        | **SPRING BREAK - NO CLASSES**                            |           |                                                           |
 | **9**  | Tue | Mar 24        | c16w9  | Post-break check-in. Peer review + semester planning.    | Iterate   |                                                           |
-| **9**  | Thu | Mar 26        | c17w9  | TBD                                                      | Iterate   |                                                           |
-| **10** | Tue | Mar 31        | c18w10 | TBD                                                      | Iterate   |                                                           |
-| **10** | Thu | Apr 2         | c19w10 | TBD                                                      | Iterate   |                                                           |
-| **11** | Tue | Apr 7         | c20w11 | TBD                                                      | Build     |                                                           |
-| **11** | Thu | Apr 9         | c21w11 | TBD                                                      | Build     |                                                           |
-| **12** | Tue | Apr 14        | c22w12 | TBD                                                      | Build     |                                                           |
-| **12** | Thu | Apr 16        | c23w12 | TBD                                                      | Build     |                                                           |
-| **13** | Tue | Apr 21        | c24w13 | TBD                                                      | Build     |                                                           |
+| **9**  | Thu | Mar 26        | c17w9  | Feature prioritization (RICE). Roadmap reviews.          | Iterate   | 🎧 RAG + MCP + When to Add AI                             |
+| **10** | Tue | Mar 31        | c18w10 | AARRR intro. User testing methodology. GA4+Amplitude setup. Leaderboard starts. | Iterate   | 🎧 SEO + Content Marketing + AI Optimization              |
+| **10** | Thu | Apr 2         | c19w10 | Automated leaderboard (API endpoint). Growth strategy feedback. AI for your product (5 patterns + HITL). | Iterate   | 🎧 Lifecycle Marketing + Email                            |
+| **11** | Tue | Apr 7         | c20w11 | Analytics deep dive: AARRR + GA/Amplitude setup.         | Iterate   | 🎧 Metrics: AARRR + Leading vs Lagging                    |
+| **11** | Thu | Apr 9         | c21w11 | Pricing experimentation workshop.                        | Iterate   | 🎧 Unit Economics + Pricing                               |
+| **12** | Tue | Apr 14        | c22w12 | Onboarding optimization workshop + user testing.         | Iterate   | 🎧 Fundraising + Company Formation                        |
+| **12** | Thu | Apr 16        | c23w12 | Iterate on product based on testing.                     | Iterate   |                                                           |
+| **13** | Tue | Apr 21        | c24w13 | Y Combinator applications.                               | Iterate   | 🎧 YC Applications                                        |
 | **13** | Thu | Apr 23        | c25w13 | **Feature freeze.** Final measurement + pitch data collection. | Measure |                                                           |
 | **14** | Tue | Apr 28        | c26w14 | Pitch building + presentations                           | Ship      |                                                           |
 | **14** | Thu | Apr 30        | c27w14 | Pitch workshop                                           | Ship      |                                                           |
@@ -189,8 +189,7 @@ Teams run structured experiments throughout the course:
 | 6 | **Demand** | Demand Test (traffic → waitlist) | Will strangers express interest? |
 | 7-8 | **Build** | Experiment 2 (team's choice) | Can we validate a second dimension? (pricing, channel, feature) |
 | 8 | **Build** | MVP Presentations | Is our solution coherent? (peer feedback) |
-| 10 | **Iterate** | Experiment 3 (team's choice) | Can we improve on earlier results with a more built product? |
-| 11 | **Iterate** | Experiment 4 + pricing test | Can we push further? Do the economics work? |
+| 10-12 | **Iterate** | Get users + optimize onboarding | Can you get real users through the door and keep them? |
 | 13 | **Measure** | Final Measurement | What story does our data tell? (product frozen, collect pitch data) |
 
 ---
@@ -230,18 +229,18 @@ Teams run structured experiments throughout the course:
 
 ### Weeks 9-10: Iterate
 - **c16w9** (Mar 24): Post-break check-in. Peer review + semester planning.
-- **c17w9** (Mar 26): TBD
-- **c18w10** (Mar 31): TBD
-- **c19w10** (Apr 2): TBD
+- **c17w9** (Mar 26): Feature prioritization (RICE framework). Team roadmap reviews.
+- **c18w10** (Mar 31): AARRR intro (pirate metrics, aha moments, activation gate). User testing methodology (finding strangers, consent, running sessions, note-taking). GA4+Amplitude setup. User count leaderboard starts. Two-track assignment: Track A (3 user testing sessions, due Apr 7) + Track B (GA4+Amplitude+20 users+growth doc, due Apr 9).
+- **c19w10** (Apr 2): Automated leaderboard assignment (build API endpoint for metrics). Growth strategy feedback (specificity, volume, channel speed, outreach quality). Patterns across teams. AI for your product (5 patterns: unstructured→structured, classify/route, AI decide/code execute, decision support, approximate algorithms + HITL). Team roadmap reviews.
 
 ### Weeks 11-12: Scale + Optimize
-- **c20w11** (Apr 7): TBD
-- **c21w11** (Apr 9): TBD
-- **c22w12** (Apr 14): TBD
-- **c23w12** (Apr 16): TBD
+- **c20w11** (Apr 7): Analytics deep dive: AARRR pirate metrics + GA/Amplitude setup.
+- **c21w11** (Apr 9): Pricing experimentation workshop.
+- **c22w12** (Apr 14): Onboarding optimization workshop + user testing on real flows.
+- **c23w12** (Apr 16): Iterate on product based on testing results.
 
 ### Week 13: Final Build + Freeze
-- **c24w13** (Apr 21): TBD
+- **c24w13** (Apr 21): Y Combinator applications.
 - **c25w13** (Apr 23): **Feature freeze.** Final measurement round — product frozen, collect usage data, quotes, metrics for pitch
 
 ### Week 14 + Finals: Ship
