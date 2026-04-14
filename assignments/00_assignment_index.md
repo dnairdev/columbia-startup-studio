@@ -22,7 +22,7 @@ Each assignment links to a detailed description with submission instructions. De
 
 | Due | Assignment | Deck |
 |-----|-----------|------|
-| Thu Feb 19 | [Synthesis, Product Brief & Brand Position](20260219_synthesis-brief-position/README.md) | [c8 Synthetic Testing](../classes/20260217_c8w5_tue_synthetic-testing/slides_c8w5_tue_synthetic-testing.pdf) / [c9 Synthetic Testing](../classes/20260219_c9w5_thu_synthetic-testing/slides_c9w5_thu_synthetic-testing.pdf) |
+| Thu Feb 19 | [Synthesis, Product Brief & Brand Position](20260219_synthesis-brief-position.md) | [c8 Synthetic Testing](../classes/20260217_c8w5_tue_synthetic-testing/slides_c8w5_tue_synthetic-testing.pdf) / [c9 Synthetic Testing](../classes/20260219_c9w5_thu_synthetic-testing/slides_c9w5_thu_synthetic-testing.pdf) |
 | Tue Feb 24 | [Landing Page + Synthetic Testing](20260224_landing-page-synthetic-testing.md) | [c9 Synthetic Testing](../classes/20260219_c9w5_thu_synthetic-testing/slides_c9w5_thu_synthetic-testing.pdf) |
 
 ## Week 6: Demand Gen + Style Guide
