@@ -10,7 +10,7 @@ Show the product live. Walk through your data. This is practice + feedback, not 
 | Thu, Apr 9  | c21   | the birds    |               |           |
 | Tue, Apr 14 | c22   | FreeWeight   | Vouch         | Rekindled |
 | Thu, Apr 16 | c23   | Std Deviants | MisFitAI      |           |
-| Tue, Apr 21 | c24   | 4CUz         | j-combinators |           |
-| Thu, Apr 23 | c25   | Millionaires | Recruitr      |           |
+| Tue, Apr 21 | c24   | 4CUz         |               |           |
+| Thu, Apr 23 | c25   | Millionaires | Recruitr      | Sift      |
 
 Sign up for an open slot. Earlier = more time to incorporate feedback. Later = more data to show.
