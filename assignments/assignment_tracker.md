@@ -1,87 +1,66 @@
-# Assignment One-Sheet: All Deliverables (Spring 2026)
+# Assignments Index
 
-*Extracted from all 15 slide decks, April 9 2026*
+All assignments for Startup Studio: AI-Accelerated Building & Validation (Spring 2026).
 
-### Week 3: Team Formation + Divergent Thinking
+Each assignment links to a detailed description with submission instructions. Deck PDFs link to the class slides where the assignment was introduced.
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Feb 5 | **Idea Brief** (Problem, Context, Idea + 4 W's + AEIOU) | c4 |
-| Fri Feb 6 | **Team Submission** via GitHub PR: team name, member UNIs, all ideas generated (FigJam/sticky note photos), Lean Canvases | c5 |
+---
 
-### Week 4: User Interviews
+## Week 3: Team Formation + Divergent Thinking
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Tue Feb 17 | **8-12 Problem Interviews** with post-interview snapshots (one per interview, within 1 hour) | c6 |
-| Tue Feb 17 | **Audience Definition** (template: who, what they care about, where they hang out, how they describe the problem, what they've tried, what would make them switch) | c7 |
-| Tue Feb 17 | **Top 3 Interview Quotes** (landing page-ready) + one-sentence solution description | c7 |
-| Ongoing | **Team Contract** (template shared after c7) | c7 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Thu Feb 5 / Fri Feb 6 | [Idea Brief + Team Submission](20260205_idea-brief-team-submission.md) | [c4 Team Formation](../classes/20260203_c4w3_tue_team-formation/slides_20260203_c4w3_tue_team-formation.pdf) / [c5 Divergent Thinking](../classes/20260205_c5w3_thu_divergent-thinking/slides_20260205_c5w3_thu_divergent-thinking.pdf) |
 
-### Week 5: Synthesis + Synthetic Testing
+## Week 4: User Interviews
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Feb 19 | **Synthesis Comparison** -- Part A: human synthesis first, Part B: AI synthesis, Part C: comparison reflection (1-2 paragraphs) | c8 |
-| Thu Feb 19 | **Product Brief** (one page: what, who, what problem) + **Brand Position** (thesis, target identity, canonical language, language to avoid, positioning statement) | c8 |
-| Tue Feb 24 | **Polished Brand Position** (full template) | c9 |
-| Tue Feb 24 | **V1 Landing Page Copy** (hero, how it works, social proof, objection handling, CTA) | c9 |
-| Tue Feb 24 | **Synthetic Testing** -- minimum 2 rounds of iteration (V1 to V2, ideally V3) using course skill folder | c9 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Tue Feb 17 | [User Interview Materials](20260217_user-interviews.md) | [c6 User Interviews](../classes/20260210_c6w4_tue_user-interviews/slides_20260210_c6w4_tue_user-interviews.pdf) / [c7 Interview Guide](../classes/20260212_c7w4_thu_interview-guide/slides_c7w4_thu_define-audience.pdf) |
 
-### Week 6: Demand Gen + Style Guide
+## Week 5: Synthesis + Synthetic Testing
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Feb 26 | **Live Landing Page** (headline, value props, CTA, email capture, styled per style guide) | c10 |
-| Thu Feb 26 | **STYLE_GUIDE.md** (color palette, typography, visual tone, component patterns) | c10 |
-| Thu Feb 26 | **Demand Test Plan** (one audience, two angles, success thresholds committed in advance) | c10 |
-| Begin wk 6 | **Google Analytics Certification** (Google Skillshop, free, ~5 hrs) | c10 |
-| Thu Feb 26 | **MVP Feature List** (3-5 core features, each will go through feature-forge) | c11 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Thu Feb 19 | [Synthesis, Product Brief & Brand Position](20260219_synthesis-brief-position/README.md) | [c8 Synthetic Testing](../classes/20260217_c8w5_tue_synthetic-testing/slides_c8w5_tue_synthetic-testing.pdf) / [c9 Synthetic Testing](../classes/20260219_c9w5_thu_synthetic-testing/slides_c9w5_thu_synthetic-testing.pdf) |
+| Tue Feb 24 | [Landing Page + Synthetic Testing](20260224_landing-page-synthetic-testing.md) | [c9 Synthetic Testing](../classes/20260219_c9w5_thu_synthetic-testing/slides_c9w5_thu_synthetic-testing.pdf) |
 
-### Week 7: Build Kickoff
+## Week 6: Demand Gen + Style Guide
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Mar 5 | **MVP Doc** (`20260305/mvp_doc.md`): core flow, tech stack, team roles, what's faked, demand gen status | c12 |
-| Thu Mar 12 | **MVP Presentation** (demo what you built) | c12 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Thu Feb 26 | [Style Guide, Landing Page, Demand Test & MVP Features](20260226_style-guide-demand-test.md) | [c10 Demand Gen](../classes/20260224_c10w6_tue_demand-gen-style-guide/slides_c10w6_tue_demand-gen-style-guide.pdf) / [c11 Landing Pages](../classes/20260226_c11w6_thu_landing-pages-demand-gen/slides_c11w6_thu_landing-pages-demand-gen.pdf) |
 
-### Week 9: Post-Break Check-In
+## Week 7: Build Kickoff
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Mar 26 | **Check-In Doc** (`20260326/checkin.md`): peer review (what worked, what broke, biggest gap, ship one improvement) + roadmap (what to learn, what to build, biggest question, Demo Day success definition) | c16 |
-| Sign up | **Team Presentation Slot** (5-min demo + 5-min Q&A, Apr 7 - Apr 23) | c16 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Thu Mar 5 | [MVP Doc](20260305_mvp-doc.md) | [c12 Build Kickoff](../classes/20260303_c12w7_tue_build-kickoff/slides_c12w7_vibe-coding-dead.pdf) |
 
-### Week 9-10: Feature Prioritization + Growth
+## Week 9: Post-Break Check-In
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Tue Mar 31 | **Prioritized Roadmap** (from RICE scoring; #1 priority as build plan) | c17 |
-| Thu Apr 2 | **Analytics installed + funnel tracking live** (GA4 + Amplitude, all events firing) | c18 |
-| Thu Apr 2 | **User Count API Endpoint** (`GET /api/user-count` to JSON) | c18 |
-| Thu Apr 2 | **Growth Strategy Doc Part 1** (channels, approach, success metrics) | c18 |
-| Tue Apr 7 | **User Testing Sessions** (3-5 strangers on onboarding; synthesis + product recommendation) | c18 |
-| Thu Apr 9 | **20+ Real Users** driven to product | c18 |
-| Thu Apr 9 | **Growth Strategy Doc Part 2** (results per channel, what worked, what's changing) | c18 |
-| Thu Apr 9 | **API Metrics Endpoint** (`GET /api/metrics` to JSON: signups, active_users, waitlist, page_views) | c19 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Thu Mar 26 | [Peer Review + Product Roadmap](20260326_peer-review-learnings-roadmap.md) | [c16 Post-Break](../classes/20260324_c16w9_tue_post-break-checkin/slides_c16w9_tue_post-break-checkin.pdf) / [c17 Feature Prioritization](../classes/20260326_c17w9_thu_feature-prioritization/slides_c17w9_thu_feature-prioritization.pdf) |
 
-### Week 11: Analytics + Cold Start
+## Weeks 10-11: Growth + Analytics
 
-| Due | Deliverable | Source |
-|-----|-------------|--------|
-| Thu Apr 9 | **Weekly Update #1** (`weekly_update_YYYY-MM-DD.md`: what you built, what you're building, user count, blockers) | c20 |
-| Thu Apr 16 | **Analytics Snapshot** (dashboard screenshots + funnel with real numbers + 1-page written analysis) | c20 |
-| ASAP | **Cold Start Strategy** added to existing growth plan (cold start type, hard side, two strategies, this-week action for each) | c21 |
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Apr 2 / Apr 7 / Apr 9 | [Growth Strategy + Analytics + User Testing](20260402_growth-strategy-analytics.md) | [c18 Onboarding & Growth](../classes/20260331_c18w10_tue_onboarding-and-growth/slides_c18w10_tue_onboarding-and-growth.pdf) / [c19 AI & Growth](../classes/20260402_c19w10_thu_ai-and-growth/slides_c19w10_thu_ai-and-growth.pdf) |
+| Every Tue (from Apr 7) | [Weekly Updates](20260407_weekly-updates.md) | [c20 Analytics Deep Dive](../classes/20260407_c20w11_tue_analytics-deep-dive/slides_c20w11_tue_analytics-deep-dive.pdf) |
+| ASAP after Apr 9 | [Cold Start Strategy](20260409_cold-start-strategy.md) | [c21 Cold Start](../classes/20260409_c21w11_thu_cold-start/slides_c21w11_thu_cold-start.pdf) |
+| Thu Apr 16 | [Analytics Snapshot](20260416_analytics-snapshot.md) | [c20 Analytics Deep Dive](../classes/20260407_c20w11_tue_analytics-deep-dive/slides_c20w11_tue_analytics-deep-dive.pdf) |
 
 ---
 
 ## Recurring / Ongoing
 
-| Cadence | Deliverable |
-|---------|-------------|
-| Every Tuesday (from Apr 7) | **Weekly Update** (half page: built last week, building this week, user count, blockers) |
-| Every class (from wk 10) | **State your user count** (leaderboard) |
-| Apr 7 - Apr 23 | **Team Presentation** (5-min demo + 5-min Q&A) |
+| Cadence | What |
+|---------|------|
+| Every Tuesday (from Apr 7) | [Weekly Update](20260407_weekly-updates.md): what you built, what you're building, user count, blockers |
+| Every class (from wk 10) | State your user count (leaderboard) |
+| Apr 7 - Apr 23 | Team Presentation: 5-min demo + 5-min Q&A |
 
 ## Certifications
 
