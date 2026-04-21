@@ -79,7 +79,6 @@ The course follows the canonical validation sequence: **Problem → Solution →
 
 - Final measurement round (usage data, quotes, metrics — product doesn't change)
 - Build pitch narrative from experiment results
-- Pitch workshop with peer feedback
 - **Demo Day: May 12** (Finals period)
 
 ---
@@ -112,10 +111,10 @@ The course follows the canonical validation sequence: **Problem → Solution →
 | **11**     | Thu | Apr 9         | c21w11 | Cold start problems + network effects.                                                                   | Iterate  | 🎧 Unit Economics + Pricing                                                       |
 | **12**     | Tue | Apr 14        | c22w12 | Onboarding optimization workshop + user testing.                                                         | Iterate  | 🎧 Fundraising + Company Formation                                                |
 | **12**     | Thu | Apr 16        | c23w12 | Iterate on product based on testing.                                                                     | Iterate  |                                                                                   |
-| **13**     | Tue | Apr 21        | c24w13 | Y Combinator applications.                                                                               | Iterate  | 🎧 YC Applications                                                                |
+| **13**     | Tue | Apr 21        | c24w13 | Pitching: narrative + deck. Raskin strategic narrative, slide-by-slide rules, Demo Day prep.             | Measure  | 🎧 YC Applications                                                                |
 | **13**     | Thu | Apr 23        | c25w13 | **Feature freeze.** Final measurement + pitch data collection.                                           | Measure  |                                                                                   |
 | **14**     | Tue | Apr 28        | c26w14 | Pitch building + presentations                                                                           | Ship     |                                                                                   |
-| **14**     | Thu | Apr 30        | c27w14 | Pitch workshop                                                                                           | Ship     |                                                                                   |
+| **14**     | Thu | Apr 30        | c27w14 | Deck workshop — draft 2 + small-group coaching on specific slides (no live run-throughs)                | Ship     |                                                                                   |
 | **Finals** | Tue | May 12        | c28    | **DEMO DAY**                                                                                             | Ship     |                                                                                   |
 
 ---
@@ -239,11 +238,11 @@ Teams run structured experiments throughout the course:
 - **c22w12** (Apr 14): Onboarding optimization workshop + user testing on real flows.
 - **c23w12** (Apr 16): Iterate on product based on testing results.
 
-### Week 13: Final Build + Freeze
-- **c24w13** (Apr 21): Y Combinator applications.
-- **c25w13** (Apr 23): **Feature freeze.** Final measurement round — product frozen, collect usage data, quotes, metrics for pitch
+### Week 13: Pitch + Freeze
+- **c24w13** (Apr 21): Pitching class — narrative (Andy Raskin strategic narrative, customer-as-hero, YC six-point) and deck (slide-by-slide rules, DocSend behavioral data, live vs. leave-behind). Brief access section. Assignment: pitch deck draft 1 due Mon Apr 27 night.
+- **c25w13** (Apr 23): **Feature freeze.** Final measurement round — product frozen, collect usage data, quotes, metrics for pitch. Lifecycle marketing quick-take.
 
 ### Week 14 + Finals: Ship
 - **c26w14** (Apr 28): Pitch building + presentations
-- **c27w14** (Apr 30): Pitch workshop
+- **c27w14** (Apr 30): Deck workshop — teams bring revised drafts for round-2 written feedback and small-group coaching on specific slides, transitions, and narrative beats. No live run-throughs (teams have been practicing presenting every class all semester).
 - **c28** (May 12): **DEMO DAY** (Finals period)

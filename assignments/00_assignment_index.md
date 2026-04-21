@@ -52,6 +52,12 @@ Each assignment links to a detailed description with submission instructions. De
 | ASAP after Apr 9 | [Cold Start Strategy](20260409_cold-start-strategy.md) | [c21 Cold Start](../classes/20260409_c21w11_thu_cold-start/slides_c21w11_thu_cold-start.pdf) |
 | Thu Apr 16 | [Analytics Snapshot](20260416_analytics-snapshot.md) | [c20 Analytics Deep Dive](../classes/20260407_c20w11_tue_analytics-deep-dive/slides_c20w11_tue_analytics-deep-dive.pdf) |
 
+## Week 13: Pitching
+
+| Due | Assignment | Deck |
+|-----|-----------|------|
+| Tue Apr 28 (start of class) | [Pitch Deck Draft 1](20260428_pitch-deck-draft.md) | [c24 Pitching](../classes/20260421_c24w13_tue_pitching/deck/slides_c24w13_tue_pitching.pdf) |
+
 ---
 
 ## Recurring / Ongoing
