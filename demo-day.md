@@ -41,6 +41,6 @@ On May 12, they will present VC-style pitches with live demos.
 
 ## Attending
 
-In attendance will be industry reps from large companies and startups. Reach out to Ken at krs2212@columbia.edu to attend.
+We have several confirmed attendees from large companies and startups, and a few slots remaining for additional industry guests. Reach out to Ken at krs2212@columbia.edu to request an invitation.
 
-Columbia has a closed campus. You must have an invitation to attend. 
+Columbia has a closed campus — attendance is by invitation only.
