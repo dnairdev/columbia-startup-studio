@@ -33,7 +33,7 @@ On May 12, they will present VC-style pitches with live demos.
 
 ## About the Course
 
-[COMS4995-011](resources/course_syllabus.md) was designed as a blend of three disciplines: UX research and interviewing techniques, lean startup validation and growth methods, and AI used both as a tool for building products and as a way to understand the world. Most startup courses pick one of these. This one teaches the synthesis.
+[COMS4995-011](resources/course_syllabus.md) is designed as a blend of three disciplines: UX research, startup hacking, and modern AI. The course is structured as a studio-style environment, emphasizing real building, iteration, and critique, and pushes students to practice cross-functional concepts in the service of building products that people actually want to use. 
 
 **Instructor:** Ken St. Clair, Adjunct Assistant Professor of Computer Science
 
@@ -41,6 +41,6 @@ On May 12, they will present VC-style pitches with live demos.
 
 ## Attending
 
-We have several confirmed attendees from large companies and startups, and a few slots remaining for additional industry guests. Reach out to Ken at krs2212@columbia.edu to request an invitation.
+We have several confirmed industry attendees from large companies and startups, and a few slots remaining for additional industry guests. Reach out to Ken at krs2212@columbia.edu to request an invitation.
 
 Columbia has a closed campus. Attendance is by invitation only.
